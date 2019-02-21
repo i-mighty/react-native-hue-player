@@ -238,7 +238,7 @@ class AudioControls extends Component {
                 </View>
                 <View style={styles.playbackContainer}>
                     <Text numberOfLines={1} style={this.props.sliderTimeStyle}>
-                        {currentTime ? moment(currentTime * 1000).format('mm:ss') : '00:00'}
+                        {currentTime ? moment.utc(currentTime * 1000).format('mm:ss') : '00:00'}
                     </Text>
                     <Slider
                         value={currentTime}
@@ -260,7 +260,7 @@ class AudioControls extends Component {
                         onValueChange={() => AudioController.clearCurrentTimeListener()}
                     />
                     <Text numberOfLines={1} style={this.props.sliderTimeStyle}>
-                        {duration ? moment(duration * 1000).format('mm:ss') : '00:00'}
+                        {duration ? moment.utc(duration * 1000).format('mm:ss') : '00:00'}
                     </Text>
                 </View>
                 <View style={styles.buttonsContainer}>
