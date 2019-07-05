@@ -1,0 +1,4 @@
+#Wed Dec 13 11:44:03 GMT-03:00 2017
+base.0=E\:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=E\:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

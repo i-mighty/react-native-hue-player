@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\stop.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\stop.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\previous.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\previous.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\skip_forward_30.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\skip_forward_30.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\skip_backward_10.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\skip_backward_10.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\play.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\play.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\skip_forward_5.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\skip_forward_5.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\skip_forward_10.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\skip_forward_10.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\skip_backward_5.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\skip_backward_5.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\skip_backward_30.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\skip_backward_30.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\pause.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\pause.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\next.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-anydpi-v21\\next.xml"
+    }
+]

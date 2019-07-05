@@ -1,0 +1,33 @@
+{
+  "name": "react-native-hue-player",
+  "version": "2.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/App2Sales/react-native-hue-player.git"
+  },
+  "keywords": [
+    "sound",
+    "react-native",
+    "audio",
+    "audio",
+    "streaming",
+    "playlist"
+  ],
+  "dependencies": {
+    "moment": "^2.19.3",
+    "react-native-audio-streamer": "https://github.com/App2Sales/react-native-audio-streamer/tarball/master",
+    "react-native-music-control": "^0.4.13",
+    "react-native-sound": "^0.10.4"
+  },
+  "author": "App2Sales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/App2Sales/react-native-hue-player/issues"
+  },
+  "homepage": "https://github.com/App2Sales/react-native-hue-player#readme"
+}

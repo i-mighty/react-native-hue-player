@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_02218550ac72ff2c7b5cd391858d2a75f610f840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_ba0fb397ffd4ef2d3a092c8059b7c3a1899369a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_c935f32c728ade7664c5c3f466220828ee722431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_7a6eee2b30b6227d11043dafbd80b95e0dda2fea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_4c5a39b9c052451e93d1d00f8c091f3ec14ae48b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_be2a6c2129f1d6e9fe064e8f632ddd08859dcb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wendel\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_3e682fe7e669c0026b12f62e49bf070b23f1a8a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b4192f0a3c29acff2ea4fd1aee7d1a44bca3c63b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_43529ed8ec5e9c69ac62067faf7f578aef8ac71a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wendel\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_da815934f59d0614cc0d92b3715d61a67e3ad474.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wendel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_9c0ead46ecbadbd3c24b21b16570545eee4d3edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_68c58e5d90b6db04365c6a892ac5b878b4d0e41a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_68b3ddbee53ec1d0392a0c9591c55438abc3f54a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_32f9317fc747eaa882c04b37e787414ce537c607.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bd515c3eabc9d928e347faf94177be80ae3db676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wendel\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_cb4ff1a487ee0818a764cfb189ddec959e59026c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wendel\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_b85bf4bef05f4f690ee068aca403c6f5e2adff47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_cb6833cfbb8a8777bb6f9cae6de2f93bb97e4d46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_b0418497986d09e7ea9771c23222ae902494051a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wendel\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_f5a27b88a07ecf1922e4ee496183ada07963742d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_c300c7e1f4eafb4b0942dbe5fd59f626b16f4e7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_1a4d84d05e81bca6bdf06863f60c47d2c4f58d53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_cb8e97a98ea774aabb093984f11b65f4fb7c9032.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r2.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1b6a8c5921674faf26796e185a60d62065b4f157">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.google.android.exoplayer-exoplayer-r2.1.1_06c6616ad257656beba9806080a9cd318c0281c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\musicPlayer\react-native-audio-streamer\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4256fec0757c9e2edefa63d007d2aa4bb19ef4e2">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\musicPlayer-react-native-audio-streamer-unspecified_ca18e832d0ab1d17e380fe2a071184e7927e2250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_765b5a7c86af9fd797381a093639719544f4e859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b62951bbcc35c4cda22e20555d14f6466ce84fe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_313be6d07c061dd5caa7adc14174ad54d22eae13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.50.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f768861356f4cd8613da447181fd15c3f584f52d">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.50.4_7757ff73c5028b012edfa11cc1189668fb69064c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_382d0b56eb5c5157f0e3470d9f901610263d22e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_1ea2465c2df5eb8b13d3480b0ea77aff35116074.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\musicPlayer\react-native-music-control\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7878374b5de2c82ec9321aa678ec96bb508fc723">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\musicPlayer-react-native-music-control-unspecified_ca635f400cebc468ce8d83605555f61d7e64f605.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_67c60e2a1c4efe92aa7685858e20cc910fd1a5cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_43fa9321b9b0a563604f8db74ee80745717e7b7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Wendel\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_3927acd15b8282e3ac47b935f114fb7a8ffb6e21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\exploded-aar\musicPlayer\react-native-sound\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="7928ca2aee98dbdd5120ff66393d67402b5b719c">
+        <dex dex="E:\Desenvolvimento\Projetos\react-native\react-native-hue-player\Example\android\app\build\intermediates\pre-dexed\debug\musicPlayer-react-native-sound-unspecified_e9a70b4aad4c9d39196c6f24936b88b15667244b.jar" />
+    </item>
+
+</items>

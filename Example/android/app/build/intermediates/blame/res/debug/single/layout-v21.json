@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

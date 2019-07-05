@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_previous.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.1\\res\\drawable-ldpi-v4\\exo_controls_previous.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\stop.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\stop.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\skip_forward_30.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\skip_forward_30.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\skip_backward_30.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\skip_backward_30.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_rewind.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.1\\res\\drawable-ldpi-v4\\exo_controls_rewind.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\skip_backward_10.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\skip_backward_10.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\next.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\next.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\skip_forward_5.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\skip_forward_5.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\pause.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\pause.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\previous.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\previous.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_next.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.1\\res\\drawable-ldpi-v4\\exo_controls_next.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_pause.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.1\\res\\drawable-ldpi-v4\\exo_controls_pause.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_play.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.1\\res\\drawable-ldpi-v4\\exo_controls_play.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\skip_forward_10.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\skip_forward_10.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_fastforward.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\com.google.android.exoplayer\\exoplayer\\r2.1.1\\res\\drawable-ldpi-v4\\exo_controls_fastforward.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\skip_backward_5.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\skip_backward_5.png"
+    },
+    {
+        "merged": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\play.png",
+        "source": "E:\\Desenvolvimento\\Projetos\\react-native\\react-native-hue-player\\Example\\android\\app\\build\\intermediates\\exploded-aar\\musicPlayer\\react-native-music-control\\unspecified\\res\\drawable-ldpi-v4\\play.png"
+    }
+]
